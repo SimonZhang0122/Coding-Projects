@@ -6,6 +6,6 @@
 
 - The game should run without bugs, but the UI and editor mode(to edit map for enemy UFO path) might be buggy and may cause errors. 
 
-- [TowerDefense.jar](https://github.com/SimonZhang0122/Coding-Projects/blob/433787147111051635f71c3c75a3d8c322d87a44/2D%20Tower%20Defense%20Game/TowerDefense%20.jar)is the compressed game that can be instantly run upon download
+- [TowerDefense.jar](https://github.com/SimonZhang0122/Coding-Projects/blob/433787147111051635f71c3c75a3d8c322d87a44/2D%20Tower%20Defense%20Game/TowerDefense%20.jar) is the compressed game that can be instantly run upon download
 
 - [TowerDefense](https://github.com/SimonZhang0122/Coding-Projects/tree/master/2D%20Tower%20Defense%20Game/Tower%20Defense) contain the Java files for the game.
