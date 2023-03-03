@@ -1,3 +1,9 @@
+"""
+Asks the user for an amount of number and the numbers itself, 
+then print out a new list of numbers only with numbers smaller than 5, 
+then asks the user for a number and print out another list with numbers smaller than the number that was just inputted by the user(Doesn't overlap with the list smaller than 5). 
+"""
+
 list = []
 num =   int(input("How many numbers are you querying: "))
 print("Please enter your numbers: ")

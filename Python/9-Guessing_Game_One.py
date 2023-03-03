@@ -1,4 +1,11 @@
+"""
+Depending on user preference, generate a whole number or decimal of prefered size and range then ask the user to guess this number. 
+Depending on the user's guess, tell the user whether they should guess higher or lower. 
+After the user guess the number, tell the user how many tries they attempted. 
+"""
+
 import random
+
 tries = 0
 print("Welcome to the guessing game!")
 range1, range2 = input("What is the range of the number you wanna guess from(type low_range top_range): ").split()

@@ -1,4 +1,9 @@
+"""
+Asks the user for a word then print out whether the word is a palindrome or not.
+"""
+
 import math
+
 inp = input("What is the words: ")
 leng = len(inp)
 if leng % 2 == 0:

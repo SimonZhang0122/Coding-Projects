@@ -1,3 +1,7 @@
+"""
+Using function, ask the user to enter an initial number and amount of numbers to generate a fibonacci sequence. 
+"""
+
 def fibonacci(inp):
     digits, raw = inp.split()
     a = int(raw)

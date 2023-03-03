@@ -1,4 +1,9 @@
+"""
+Asks the user for the size of a list and the range of the list(input as X Y), then print out the list and a new list with only even numbers.
+"""
+
 import random
+
 list = []
 x = 1
 size = int(input("What size do you want your list to be: "))

@@ -1,3 +1,7 @@
+"""
+Asks the user for a number, then print out all divisors of that number.
+"""
+
 num = int(input("What is your number: "))
 i = 0
 divisors = []

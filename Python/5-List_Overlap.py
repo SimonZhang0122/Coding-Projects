@@ -1,4 +1,10 @@
+"""
+Asks the user for sizes of two list, then ask for the ranges of the two list(input as X Y), 
+then print out the two lists and print out the common number between the two lists.
+"""
+
 import random   
+
 a = []
 b = []
 x = 1

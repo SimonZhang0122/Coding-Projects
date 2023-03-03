@@ -1,3 +1,7 @@
+"""
+Using function, ask the user for a number and determine if it's a prime number or not.
+"""
+
 def is_prime(num):
     i = 0
     divs = []
