@@ -4,7 +4,7 @@ Read from the given text file, count how many of each “category” of each ima
 
 counter = {}
 
-with open("Training_01.txt", "r") as file:
+with open("22-Training_01.txt", "r") as file:
     line = file.readline()
     while line:
         cat = line[3: -26]

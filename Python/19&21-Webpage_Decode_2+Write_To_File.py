@@ -17,6 +17,6 @@ for inp in soup.find_all("p", "paywall"):
 for line in result:
     print(line)
     
-with open('test_write.txt', 'w') as open_file:
+with open('19&21-test_write.txt', 'w') as open_file:
     for line in result:
         open_file.write(line)

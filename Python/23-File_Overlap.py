@@ -8,11 +8,11 @@ p_list = []
 c_list = []
 
 
-with open("happynumbers.txt", "r") as happy:
+with open("23-happynumbers.txt", "r") as happy:
     for line in happy:
         h_list.append(int(line))
         
-with open('primenumbers.txt', 'r',) as prime:
+with open('23-primenumbers.txt', 'r',) as prime:
     for line in prime:
         p_list.append(int(line))
         
