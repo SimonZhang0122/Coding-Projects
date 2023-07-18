@@ -232,7 +232,7 @@ def DEL():
         printRecord()
 
 def main():
-    print("\t---Wlecome to the birthday Archieve---\n")
+    print("\t---Welcome to the birthday Archieve---\n")
     printRecord()
     print("\nTo search for an archieve press 's', \nTo edit existing files press 'e', \nTo quit press any other keys.")
     inp = input("\n>>>What would you like to do(S/E): ").upper()
