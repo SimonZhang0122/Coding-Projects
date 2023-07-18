@@ -30,7 +30,6 @@ def guesser():
     l = 1
     for c in wordPicker():
         word.append(c)
-    print(word)
     while l <= len(word):
         display.append("_")
         l += 1
